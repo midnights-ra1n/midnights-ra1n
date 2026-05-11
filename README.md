@@ -1,87 +1,97 @@
-<h2 align="center">Hi 👋! My name is Noé and I'm a developper/network-cyber engineer, from France</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=No%C3%A9%2&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20student%2C%20currently%20in%20final%20year%20of%20a%20vocational%20high%20school%20program%20(CIEL)&descSize=18&descAlignY=55&textBg=false"/>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=It%20is%20not%20the%20easy%20paths%20that%20forge%20strong%20minds%2C%20but%20the%20unexpected%20detours%20that%20force%20us%20to%20become%20greater%20than%20our%20fears." alt="Typing introduction" />
+</p>
 
-<img align="right" height="150" src="https://github.com/midnights-ra1n/ngrt-sh/blob/main/%E2%98%86.jpeg?raw=true"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://x.com/midnights_ra1n" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=midnights-ra1n">
+    <img src="https://komarev.com/ghpvc/?username=midnights-ra1n&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://tryhackme.com/p/ngrt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+</p>
+
+## 🧠 My Focus Areas
+- Cybersecurity
+- Network administration
+- Modern web development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/midnights-ra1n">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=midnights-ra1n&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="midnights-ra1n's GitHub Stats" />
   </a>
-</div>
+  <img src="https://streak-stats.demolab.com/?user=midnights-ra1n&theme=vue&hide_border=true&cache_seconds=86400" alt="midnights-ra1n's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=midnights-ra1n&theme=vue&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Noé G.'s GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=midnights-ra1n&theme=vue&radius=10" alt="midnights-ra1n's Activity Graph" />
+</p>
 
-###
 
-<div align="left">
-  <a href="https://ngrt.fr/" target="_blank">
-  <img height="50" src="https://github.com/midnights-ra1n/ngrt-sh/blob/main/link.png?raw=true"  />
-</div>
+## 🛠️ Languages & Tools
 
-###
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
 
-<br clear="both">
+</p>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
-###
+</p>
 
-<p align="center">I’m focused on infrastructure, systems administration, networking and security engineering.  <br>I like building resilient environments, automating deployments, and understanding how systems behave under the hood.</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
-###
+</p>
 
-<br clear="both">
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
+</p>
 
-###
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
 
-<br clear="both">
+</p>
 
-<img src="https://raw.githubusercontent.com/midnights-ra1n/midnights-ra1n/output/snake.svg" alt="Snake animation" />
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
-###
+</p>
+
+<p align="center">
+  <a href="https://github.com/midnights-ra1n">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=midnights-ra1n&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/noe-georget/"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://signal.me/#eu/smzKkkTX_3tCM_2Mp2Bi1Tia0773nag0Zbsj5hugD_5M2JrvyOJLxJ6NarDtNueU"><img align="center" src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff" alt="Signal"/></a>
+  <a href="https://x.com/midnights_ra1n"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/></a>&nbsp;&nbsp;
+  <a href="https://noe-georget.fr/"><img align="center" src="https://img.ngrt.fr/zaNU9/BIyUpIZo17.png/raw" alt="Portfolio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
