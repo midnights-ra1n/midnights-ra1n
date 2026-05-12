@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=No%C3%A9%2&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20student%2C%20currently%20in%20final%20year%20of%20a%20vocational%20high%20school%20program%20(CIEL)&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://img.ngrt.fr/zaNU9/CAjAraDu25.png/raw"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=It%20is%20not%20the%20easy%20paths%20that%20forge%20strong%20minds%2C%20but%20the%20unexpected%20detours%20that%20force%20us%20to%20become%20greater%20than%20our%20fears." alt="Typing introduction" />
-</p>
+<h3 align="center">In the Bac Pro CIEL class (Cybersecurity, IT and Networks and Electronics)</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=midnights-ra1n">
