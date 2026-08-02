@@ -11,7 +11,7 @@
 ## 🧠 My Focus Areas
 - Cybersecurity
 - Network administration
-- Modern web development
+- Modern web development (using TypeScript and JavaScript frameworks like Vite, Vue or Next.js)
 
 
 ## 📊 GitHub Stats & Trophies
@@ -85,7 +85,6 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/noe-georget/"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://signal.me/#eu/smzKkkTX_3tCM_2Mp2Bi1Tia0773nag0Zbsj5hugD_5M2JrvyOJLxJ6NarDtNueU"><img align="center" src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff" alt="Signal"/></a>
   <a href="https://x.com/midnights_ra1n"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/></a>&nbsp;&nbsp;
   <a href="https://noe-georget.fr/"><img align="center" src="https://img.ngrt.fr/zaNU9/BIyUpIZo17.png/raw" alt="Portfolio"/></a>
 </p>
