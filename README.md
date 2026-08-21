@@ -1,94 +1,24 @@
-<img src="https://img.ngrt.fr/zaNU9/CAjAraDu25.png/raw"/>
+# Hi 👋, I'm Noé
 
-<h3 align="center">In the Bac Pro CIEL class (Cybersecurity, IT and Networks and Electronics)</h3>
+<p align="center"> <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=midnights-ra1n&theme=github_dark&animation=draw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=midnights-ra1n&theme=github_dark&animation=draw" alt="midnights-ra1n" /></a> </p>
 
+- 🌱 I'm currently learning **TypeScript, Bash, Rust, Ansible and Kubernetes**
+
+- 💬 Ask me about **Network and DevOps engineer**
+
+- 👨‍💻 All of my projects are available at **[https://noe-georget.fr](https://noe-georget.fr)**
+
+- 📝 I regularly write articles on **[https://blog.noe-georget.fr](https://blog.noe-georget.fr)**
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=midnights-ra1n">
-    <img src="https://komarev.com/ghpvc/?username=midnights-ra1n&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
-  </a>
+<a href="https://github.com/midnights-ra1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="midnights-ra1n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noe-georget" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noe-georget" height="30" width="40" /></a>
 </p>
 
-## 🧠 My Focus Areas
-- Cybersecurity
-- Network administration
-- Modern web development (using TypeScript and JavaScript frameworks like Vite, Vue or Next.js)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hugo" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
 
+<p align="center"> <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=midnights-ra1n&theme=github_dark&animation=draw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=midnights-ra1n&theme=github_dark&animation=draw" alt="midnights-ra1n" /></a> </p>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/midnights-ra1n">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=midnights-ra1n&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="midnights-ra1n's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=midnights-ra1n&theme=vue&hide_border=true&cache_seconds=86400" alt="midnights-ra1n's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=midnights-ra1n&theme=vue&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Noé G.'s GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=midnights-ra1n&theme=vue&radius=10" alt="midnights-ra1n's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" />
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/midnights-ra1n">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=midnights-ra1n&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/noe-georget/"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/midnights_ra1n"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/></a>&nbsp;&nbsp;
-  <a href="https://noe-georget.fr/"><img align="center" src="https://img.ngrt.fr/zaNU9/BIyUpIZo17.png/raw" alt="Portfolio"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<p align="center"> <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=midnights-ra1n&theme=github_dark&animation=draw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=midnights-ra1n&theme=github_dark&animation=draw" alt="midnights-ra1n" /></a> </p>
