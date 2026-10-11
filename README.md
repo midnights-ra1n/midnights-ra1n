@@ -12,7 +12,7 @@
 
 - 📑 I have my own documentation on **[https://docs.noe-georget.fr](https://docs.noe-georget.fr)**
 
-But I'm not really a developer—that's not the path I want to take in the world of computer science. I know a thing or two, but focusing on development full-time would have quickly bored me.
+But I'm not really a developer—that's not the path I want to take in the world of computer science. I know a thing or two, but focusing on development full-time would have quickly bored me. **I code here and there just for my own personal use, and if you're interested, feel free to fork my projects (especially anything related to homelabs).**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
